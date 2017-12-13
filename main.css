@@ -1,0 +1,497 @@
+body{
+	background: #f0f0f0;
+	width:100%;
+}
+*{margin: 0 auto; padding: 0}
+.top{
+	width: 100%;
+	height: : 30px;
+	background: #f0f0f0;
+}
+.top div{
+	width: 1200px;
+	height: 30px;
+}
+.top p{
+	font-size: 14px;
+	font-weight: 700;
+	color: #666;
+	height: 30px;
+	line-height: 30px;
+	padding-left: 3px;
+}
+.top p span{
+	font-size: 14px;
+    color: #232323;
+    float: right;
+    padding-right: 3px; 
+    font-weight: 400;  
+}
+.aftertop{
+	width: 100%;
+	height:100px;
+	background: #fff
+}
+.logo{
+	width: 1200px;
+	height: 100px;
+	background: #fff;
+	line-height: 100px;
+}
+.logo a{
+    height: 36px;
+    line-height: 36px;
+    text-align: center;
+    width: 100px;
+	border: 1px solid #fa8e19;
+	float: right;
+	border-radius: 6px;
+	margin-top: 30px;
+	margin-right: 15px;
+	color: gray;
+	font-size: 16px;
+}
+.menu-box{
+	width: 100%;
+	height: 60px;
+	background:#fa8e19; 
+}
+.menu{
+	width: 1200px;
+	height: 60px;
+	background: #fa8e19;
+	overflow: hidden;
+}
+.menu div{
+	float: left;
+	color: #fff;
+	font-size: 16px;
+	height: 60px;
+	line-height: 60px;
+}
+.menu .first{
+	width: 78px;
+	background: #e18016;
+	text-align: center;
+}
+
+.menu .second{
+	padding-left: 10px;
+}
+.menu .third{
+	padding-left: 15px;
+	position: relative;
+}
+.menu .third img{
+	position: absolute;;
+	left: 710px;
+}
+.menu .app{
+	width: 100px;
+	margin-left:197px;
+	background: #e18016;
+	text-align: center;
+}
+.banner-box{
+	width: 1200px;
+	overflow: hidden;
+	margin-top:0 auto;
+}
+.banner{
+	width: 910px;
+	height: 315px;
+	margin: 10px;
+	padding:9px;
+	background: #fff;
+	float: left;
+}
+.banner .news{
+	width: 430px;
+	height: 205px;
+	float: right;
+}
+.news p{
+	height: 46px;
+	line-height: 46px;
+	font-size: 18px;
+
+}
+.news span{
+	float: right;
+	color: gray;
+	font-size: 15px;
+}
+.news a{
+	height: 30px;
+	line-height: 30px;
+	padding-left: 8px;
+	font-size: 14px;
+	color: gray;
+}
+.caizhong{
+	width: 944px;
+	height: 120px;
+	overflow: hidden;
+}
+.caizhong #caipiao{
+	overflow: hidden;
+}
+.caizhong li{
+	width: 112px;
+	height: 80px;
+	text-align: center;
+	font-size: 14px;
+	border-top: 1px solid #f0f0f0;
+	border-right: 1px solid #f0f0f0;
+	float: left;
+	list-style: none;
+	padding-top: 18px;
+}
+.erweima{
+	width: 247px;
+	height: 320px;
+	background: #fff;
+	float: left;
+	text-align: center;
+	margin-top: 10px;
+	padding-top: 13px;
+}
+.erweima p{
+	height: 41px;
+	line-height: 41px;
+}
+.erweima span{
+	font-size: 14px;
+	color: gray;
+}
+.content-box{
+	width: 1200px;
+	background: black;
+	margin:0 auto;
+	position: relative;
+}
+.content{
+	width: 940px;
+	height: 1444px;
+	margin-left: 0px;
+	overflow: hidden;
+	float: left;
+	margin-left: 5px;
+}
+.content .contentno1{
+	width: 459px;
+	height: 350px;
+	margin:5px;
+	float: left;
+	background: white;
+}
+.side{
+	width: 250px;
+	height:1440px;
+	float: left;
+	margin-left: 4px;
+	margin-top: 4px;
+}
+.side div{
+	margin-bottom: 10px;
+}
+.side .think{
+	width: 243px;
+	height: 380px;
+	background: white;
+}
+.think p{
+	font-size: 16px;
+	color: #666;
+	height: 50px;
+	line-height: 50px;
+	padding-left: 10px;
+}
+.think span{
+	font-size: 14px;
+	color: #999;
+	padding-left: 130px;
+}
+.yuce{
+	padding-top: 10px;
+}
+.yuce li{
+	list-style: none;
+	color: #666;
+	height: 30px;
+	line-height: 30px;
+	padding-left: 10px;
+	overflow: hidden;
+	font-size: 14px;
+}
+.side .tool{
+	background:white;
+	width: 243px;
+	height: 680px;
+}
+.tool p{
+	font-size: 16px;
+	color: #666;
+	height: 50px;
+	line-height: 50px;
+	padding-left: 10px;
+}
+.bjpk{
+	width: 213px;
+	height: 150px;
+}
+.bjpk .tubiao{
+	width: 213px;
+	height: 46px;
+}
+.bjpk img{
+	padding-top: 10px;
+	float: left;
+}
+.bjpk span{
+	font-size: 14px;
+	float: left;
+	display: inline-block;
+	margin-top: 20px;
+	margin-left: 15px;
+}
+.bjpk #zousi{
+	width: 40px;
+	height: 20px;	
+	background: url(http://1680268.com/img/icon/bjpknum.png?v=20171221828)no-repeat -42px -41px;
+	margin-top: 20px;
+	margin-left: 5px;
+	float: left;
+}
+.zousi2{
+	float: left;
+	width: 50px;
+	height: 20px;
+	margin-top: 20px;
+}
+.genduo{
+	color: gray;
+	float: right;
+	width: 50px;
+	height: 20px;
+	margin-top: 20px;
+}
+.juti{
+	width: 213px;
+	height: 72.8px;
+}
+.juti li{
+	list-style: none;
+	float: left;
+	color: gray;
+	padding-left: 10px;
+	font-size: 15px;
+}
+.content .kaijiang{
+	width: 410px;
+	height: 115px;
+	margin:10px 15px;
+}
+.kaijiang .shijian{
+	width: 290px;
+	height: 98px;
+	float: right;
+	margin-top: 25px;
+	line-height: 20px;
+}
+.shijian .beijin{
+	font-size: 18px;
+	line-height: 30px;
+}
+.beijin span{
+	font-size: 16px;
+}
+.shijian .fenzhong{
+	color: gray;
+	font-size: 14px;
+	line-height: 20px;
+}
+.fenzhong span{
+	color: red;
+}
+.contentno1 .number{
+	width: 410px;
+	height: 36px;
+	margin-left: 20px;
+}
+.contentno1 .number li{
+	list-style: none;
+	color: white;
+	font-size: 16px;
+	font-weight: 600px;
+	float: left;
+	padding: 7px 12px;
+	border-radius: 8px;	
+	margin-left: 7px;
+}
+.number .eight{
+	background: red;		
+}
+.number .six{
+	background: #5234ff;
+}
+.number .one{
+	background: yellow;
+}
+.number .five{
+	background: #17e2e5;
+}
+.number .nine{
+	background: #780b00;
+}
+.number .senve{
+	background: gray;
+}
+.number .two{
+	background: blue;
+}
+.number .three{
+	background: #4b4b4b; 
+}
+.number .kuang .ten{
+	background: green;
+	padding-left: 7px;
+	padding-right: 7px;
+}
+.number .four{
+	background: orange;
+}
+.longhu{
+	width: 400px;
+	height: 70px;
+	border: 1px solid rgb(220, 220, 220);
+	text-align: center;
+	margin-top: 10px;
+}
+.longhu td{
+	border: 1px solid rgb(220, 220, 220);
+	font-size: 14px;
+}
+#shuzilonghu{
+	color: red;
+}
+#shuzilonghu2{
+	color: red;
+}
+.gongneng{
+	width: 430px;
+	height: 40px;
+	border-top: 1px solid rgb(220, 220, 220);
+	margin-top: 30px;
+}
+.gongneng td{
+	text-align: left;
+	color: gray;
+	padding: 0px 6px;
+}
+.cqnumber{
+	width: 410px;
+	height: 36px;
+	margin-left: 20px;
+}
+.cqnumber li{
+	list-style: none;
+	float: left;
+	margin: 1px;
+	background: #0092dd;
+	padding: 6px 13px;
+	border-radius: 50%;
+	color: white;
+	font-size: 18px;
+	font-weight: 600;
+}
+.cqbiao{
+	width: 400px;
+	height: 70px;
+	border: 1px solid rgb(220, 220, 220);
+	margin-top: 10px;
+}
+.cqbiao td{
+	text-align: center;
+	border: 1px solid rgb(220, 220, 220);
+	font-size: 14px;
+}
+.cqbiao .colorred{
+	color: red;
+}
+.bottom{
+	width:100%;
+	height:300px;
+	background: #3f404f;
+	float: left;
+}
+.footbox{
+	width: 1200px;
+	height: 300px;
+}
+.footone{
+	width: 210px;
+	height: 180px;
+	float: left;	
+	font-size: 14px;
+	color: #999;
+	line-height: 36px;
+	padding-top: 70px;
+}
+.about{
+	width: 170px;
+	height: 180px;
+	float: left;
+	margin-left: 100px;
+	margin-top: 70px;
+}
+.our span{
+	font-size: 20px;
+	color: white;
+}
+.about li{
+	list-style: none;
+	color: #ccc;
+	font-size: 14px;
+	line-height: 33px;
+}
+.free{
+	width: 170px;
+	height: 280px;
+	float: left;
+	margin-left: 60px;
+	margin-top: 70px;
+}
+.free li{
+	list-style: none;
+	color: #ccc;
+	font-size: 14px;
+	line-height: 33px;
+}
+.fixbig{
+	width: 1200px;
+    position: fixed;
+    z-index: 9999;
+    overflow: hidden;
+    height: 310px;
+    top: 50%;
+    left: 50%;
+    margin-left: 28px;
+}
+.fix{
+	width: 55px;
+	height: 310px;
+	overflow: hidden;
+}
+.copy {
+	width: 1200px;
+	height: 60px;
+	line-height: 60px;
+	font-size: 12px;
+	color: #999;
+	text-align: center;
+	float: left;
+}
+.copy span{
+	color: black;
+}
